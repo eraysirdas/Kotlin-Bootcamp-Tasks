@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">UcuncuCalisma</string>
+    <string name="toolbar">Details</string>
+    <string name="headText">Pizza Margherita</string>
+    <string name="descText">A classic Italian pizza topped with fresh tomatoes, mozzarella cheese, and basil, representing the colors of the Italian flag</string>
+    <string name="markText">4.7</string>
+    <string name="deliveryText">Free</string>
+    <string name="timeText">20 Min</string>
+    <string name="size_1">14\"</string>
+    <string name="size_2">16\"</string>
+    <string name="size_3">18\"</string>
+    <string name="ingredientsText">INGREDIENTS</string>
+    <string name="ingredients_1">Salt</string>
+    <string name="ingredients_2">Pepper</string>
+    <string name="ingredients_3">Onion</string>
+    <string name="ingredients_4">Sausage</string>
+    <string name="ingredients_5">Cheese</string>
+    <string name="sizeText">SIZE : </string>
+    <string name="priceText">$32</string>
+    <string name="addToCardText">ADD TO CARD</string>
+
+
 </resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UcuncuCalisma</string>
+    <string name="toolbar">Detay</string>
+    <string name="headText">Pizza Margarita</string>
+    <string name="descText">Taze domates, mozzarella peyniri ve fesleğenle hazırlanmış, İtalyan bayrağının renklerini yansıtan klasik bir İtalyan pizzası</string>
+    <string name="markText">4.7</string>
+    <string name="deliveryText">Ücretsiz</string>
+    <string name="timeText">20 Dakika</string>
+    <string name="size_1">14\"</string>
+    <string name="size_2">16\"</string>
+    <string name="size_3">18\"</string>
+    <string name="ingredientsText">MALZEMELER</string>
+    <string name="ingredients_1">Tuz</string>
+    <string name="ingredients_2">Karabiber</string>
+    <string name="ingredients_3">Soğan</string>
+    <string name="ingredients_4">Sosis</string>
+    <string name="ingredients_5">Peynir</string>
+    <string name="sizeText">BOYUT : </string>
+    <string name="priceText">₺32</string>
+    <string name="addToCardText">SEPETE EKLE</string>
+
+
+</resources>

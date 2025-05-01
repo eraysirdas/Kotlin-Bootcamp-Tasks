@@ -4,4 +4,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="colorPrimary">#FF7622</color>
     <color name="gray">#A0A5BA</color>
+    <color name="orange">#F58D1D</color>
+    <color name="darkOrange">#FB6D3A</color>
+    <color name="pink">#FFEBE4</color>
+    <color name="lightGray">#F0F5FA</color>
 </resources>
