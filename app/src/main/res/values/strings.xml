@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FourthWork</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="goToFragmentAText"><![CDATA[GİT -> A]]></string>
+    <string name="goToFragmentXText"><![CDATA[GİT -> X]]></string>
+    <string name="goToFragmentBText"><![CDATA[GİT -> B]]></string>
+    <string name="goToFragmentYText"><![CDATA[GİT -> Y]]></string>
+    <string name="labelXText">SAYFA X</string>
+    <string name="labelMainText">ANASAYFA</string>
+    <string name="labelAText">SAYFA A</string>
+    <string name="labelBText">SAYFA B</string>
+    <string name="labelYText">SAYFA Y</string>
+
+</resources>

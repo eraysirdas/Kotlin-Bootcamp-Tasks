@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav"
+    app:startDestination="@id/main2">
+
+    <fragment
+        android:id="@+id/main2"
+        android:name="com.eraysirdas.fourthwork.fragments.Main"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/action_main2_to_pageA"
+            app:destination="@id/pageA" />
+        <action
+            android:id="@+id/action_main2_to_pageX"
+            app:destination="@id/pageX" />
+    </fragment>
+    <fragment
+        android:id="@+id/pageA"
+        android:name="com.eraysirdas.fourthwork.fragments.PageA"
+        android:label="fragment_page_a"
+        tools:layout="@layout/fragment_page_a" >
+        <action
+            android:id="@+id/action_pageA_to_pageB"
+            app:destination="@id/pageB" />
+    </fragment>
+    <fragment
+        android:id="@+id/pageB"
+        android:name="com.eraysirdas.fourthwork.fragments.PageB"
+        android:label="fragment_page_b"
+        tools:layout="@layout/fragment_page_b" >
+        <action
+            android:id="@+id/action_pageB_to_pageY"
+            app:destination="@id/pageY" />
+    </fragment>
+    <fragment
+        android:id="@+id/pageX"
+        android:name="com.eraysirdas.fourthwork.fragments.PageX"
+        android:label="fragment_page_x"
+        tools:layout="@layout/fragment_page_x" >
+        <action
+            android:id="@+id/action_pageX_to_pageY"
+            app:destination="@id/pageY" />
+    </fragment>
+    <fragment
+        android:id="@+id/pageY"
+        android:name="com.eraysirdas.fourthwork.fragments.PageY"
+        android:label="fragment_page_y"
+        tools:layout="@layout/fragment_page_y" >
+        <action
+            android:id="@+id/action_pageY_to_main2"
+            app:destination="@id/main2" />
+    </fragment>
+</navigation>
